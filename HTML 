@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Projeto de Matemática ||</title>
+</head>
+<body>
+    <h1>Meu Tema de Matemática</h1>
+    <p>Aqui vou explicar o conteúdo que escolhi de Matemática ||.</p>
+
+   <img src="https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg.webp" alt="Matemática" width="400">
+   <iframe widht="560" height="315" src="https://youtu.be/obKEn1KkMUI?si=K56X-2EzjCFWJOwm" title="Video de Matemática" frameborder="0" allowfullscreen></iframe>
+   
+</body>
+</html>
